@@ -1,2 +1,2 @@
 # TestProj
-Dummy project
+Dummy project for testing GitHub, SourceTree and Jenkins
